@@ -18,6 +18,7 @@ dependencies:
   flutter_background_service_android:
     git:
       url: "https://github.com/swarupbc/flutter_background_service"
+      path: packages/flutter_background_service_android/
   flutter_background_service_ios: ^5.0.1
 dev_dependencies:
   flutter_test:
